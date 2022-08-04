@@ -1,3 +1,7 @@
 Este es un ejemplo para subir a github.
+<<<<<<< HEAD
 Este es una segunda prueba
 
+=======
+Esta linea fue cambiada desde github.com
+>>>>>>> bf8d9afd2c53d8f0910f9e7a9ecf7396742bc376
